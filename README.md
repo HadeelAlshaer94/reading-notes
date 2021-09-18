@@ -59,17 +59,17 @@
 | -----------                                                                                 | ----------- |
 | [Home Page](https://hadeelalshaer94.github.io/reading-notes/README)                | Home Page         |
 | [class-01](https://hadeelalshaer94.github.io/reading-notes/Code 301/class-01)                   | Introduction to React and Components      |
-| [class-02](https://hadeelalshaer94.github.io/reading-notes/Code 301/class-02)                   | State and Props       |
-| [class-03](https://hadeelalshaer94.github.io/reading-notes/Code 301/class-03)                   | Passing Functions as Props       |
-| [class-04](https://hadeelalshaer94.github.io/reading-notes/Code 301/class-04)                   | React and Forms       |
-| [class-05](https://hadeelalshaer94.github.io/reading-notes/Code 301/class-05)                   | Putting it all together       |
-| [class-06](https://hadeelalshaer94.github.io/reading-notes/Code 301/class-06)                   | read06 Page       |
-| [class-07](https://hadeelalshaer94.github.io/reading-notes/Code 301/class-07)                   | read07 Page       |
-| [class-08](https://hadeelalshaer94.github.io/reading-notes/Code 301/class-08)                   | read08 Page       |
-| [class-09](https://hadeelalshaer94.github.io/reading-notes/Code 301/class-09)                   | read09 Page       |
-| [class-10](https://hadeelalshaer94.github.io/reading-notes/Code 301/class-10)                   | read10 Page       |
-| [class-11](https://hadeelalshaer94.github.io/reading-notes/Code 301/class-11)                   | read11 Page       |
-| [class-12](https://hadeelalshaer94.github.io/reading-notes/Code 301/Code 301/-12)                   | read12 Page       |
-| [class-13](https://hadeelalshaer94.github.io/reading-notes/Code 301/class-13)                   | read13 Page       |
-| [class-14](https://hadeelalshaer94.github.io/reading-notes/Code 301/class-14)                 | read14a Page      |
+| [class-02](https://hadeelalshaer94.github.io/reading-notes/301/class-02)                   | State and Props       |
+| [class-03](https://hadeelalshaer94.github.io/reading-notes/301/class-03)                   | Passing Functions as Props       |
+| [class-04](https://hadeelalshaer94.github.io/reading-notes/301/class-04)                   | React and Forms       |
+| [class-05](https://hadeelalshaer94.github.io/reading-notes/301/class-05)                   | Putting it all together       |
+| [class-06](https://hadeelalshaer94.github.io/reading-notes/301/class-06)                   | read06 Page       |
+| [class-07](https://hadeelalshaer94.github.io/reading-notes/301/class-07)                   | read07 Page       |
+| [class-08](https://hadeelalshaer94.github.io/reading-notes/301/class-08)                   | read08 Page       |
+| [class-09](https://hadeelalshaer94.github.io/reading-notes/301/class-09)                   | read09 Page       |
+| [class-10](https://hadeelalshaer94.github.io/reading-notes/301/class-10)                   | read10 Page       |
+| [class-11](https://hadeelalshaer94.github.io/reading-notes/301/class-11)                   | read11 Page       |
+| [class-12](https://hadeelalshaer94.github.io/reading-notes/301/Code 301/-12)                   | read12 Page       |
+| [class-13](https://hadeelalshaer94.github.io/reading-notes/301/class-13)                   | read13 Page       |
+| [class-14](https://hadeelalshaer94.github.io/reading-notes/301/class-14)                 | read14a Page      |
 
