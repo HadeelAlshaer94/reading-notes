@@ -1,5 +1,4 @@
 # Code 301 - Intermediate Software Development
-## https://elzero.org/wp-content/uploads/2020/10/ternary-conditional-operator.png
 
 ## How would you break a mock into a component heirarchy?
 - a component should ideally only do one thing. If it ends up growing, it should be decomposed into smaller subcomponents.
