@@ -132,5 +132,3 @@ class TemperatureInput extends React.Component {
   }
 }
 ```
-
-
