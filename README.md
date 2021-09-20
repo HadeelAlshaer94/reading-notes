@@ -1,7 +1,5 @@
 # Reading Nots
 
-## Code 101 - Reading Notes
-
 ## Code 102 - Intro to Software Development
 
 ## Code 201 - Foundations of Software Development
