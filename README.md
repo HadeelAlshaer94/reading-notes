@@ -9,11 +9,6 @@
 ## Code 401 - Advanced Software Development
 
 
-### Overview 
-###### This website includes a set of pages related to reading, so each page refers to an important term in the programming of websites.
-
-
-
 
 ### Code 102 Reading Notes
 
@@ -67,7 +62,7 @@
 | [class-09](https://hadeelalshaer94.github.io/reading-notes/301/class-09)                   | read09 Page       |
 | [class-10](https://hadeelalshaer94.github.io/reading-notes/301/class-10)                   | read10 Page       |
 | [class-11](https://hadeelalshaer94.github.io/reading-notes/301/class-11)                   | read11 Page       |
-| [class-12](https://hadeelalshaer94.github.io/reading-notes/301/301/-12)                   | read12 Page       |
+| [class-12](https://hadeelalshaer94.github.io/reading-notes/301/class-12)                   | read12 Page       |
 | [class-13](https://hadeelalshaer94.github.io/reading-notes/301/class-13)                   | read13 Page       |
 | [class-14](https://hadeelalshaer94.github.io/reading-notes/301/class-14)                 | read14a Page      |
 
